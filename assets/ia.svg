@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560" role="img" aria-label="SPÉCIALISATION IA · COMPÉTENCE PRIORITAIRE">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#060918"/><stop offset=".6" stop-color="#0c0f2e"/><stop offset="1" stop-color="#170c34"/></linearGradient>
+    <radialGradient id="a1" cx=".12" cy=".1" r=".55"><stop offset="0" stop-color="#22D3EE" stop-opacity=".15"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+    <radialGradient id="a2" cx=".92" cy=".95" r=".55"><stop offset="0" stop-color="#EC4899" stop-opacity=".15"/><stop offset="1" stop-color="#EC4899" stop-opacity="0"/></radialGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE"/><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22D3EE"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+    <linearGradient id="kpi" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#67E8F9"/><stop offset="1" stop-color="#C4B5FD"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FDE68A"/><stop offset="1" stop-color="#F59E0B"/></linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity=".07"/><stop offset=".45" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".16"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <filter id="glow" x="-1" y="-1" width="3" height="3"><feGaussianBlur stdDeviation="8"/></filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8B5CF6" stroke-opacity=".06"/></pattern>
+    <style>
+      text{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+      .in{opacity:0;animation:in .8s cubic-bezier(.2,.8,.2,1) forwards}
+      @keyframes in{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
+      .fl{animation:fl 5s ease-in-out infinite}@keyframes fl{50%{transform:translateY(-7px)}}
+      .sweep{animation:sw 5s linear infinite}@keyframes sw{from{stroke-dashoffset:0}to{stroke-dashoffset:-2000}}
+      .pulse{animation:pu 1.8s ease-in-out infinite}@keyframes pu{50%{opacity:.45}}
+      .shn{animation:sh 4.5s ease-in-out infinite}@keyframes sh{0%{transform:translateX(-600px)}60%,100%{transform:translateX(900px)}}
+      .tw{animation:tw 3s ease-in-out infinite}@keyframes tw{50%{opacity:.15}}
+    </style>
+    <clipPath id="clip"><rect width="1200" height="560" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+  <rect width="1200" height="560" fill="url(#bg)"/><rect width="1200" height="560" fill="url(#grid)"/>
+  <rect width="1200" height="560" fill="url(#a1)"/><rect width="1200" height="560" fill="url(#a2)"/><circle cx="197" cy="83" r="1.4" fill="#fff" class="tw" style="animation-delay:-1s" opacity=".7"/><circle cx="394" cy="166" r="1.8" fill="#fff" class="tw" style="animation-delay:-2s" opacity=".7"/><circle cx="591" cy="249" r="1.0" fill="#fff" class="tw" style="animation-delay:-0s" opacity=".7"/><circle cx="788" cy="332" r="1.4" fill="#fff" class="tw" style="animation-delay:-1s" opacity=".7"/><circle cx="985" cy="415" r="1.8" fill="#fff" class="tw" style="animation-delay:-2s" opacity=".7"/><circle cx="1182" cy="498" r="1.0" fill="#fff" class="tw" style="animation-delay:-0s" opacity=".7"/><circle cx="179" cy="21" r="1.4" fill="#fff" class="tw" style="animation-delay:-1s" opacity=".7"/><circle cx="376" cy="104" r="1.8" fill="#fff" class="tw" style="animation-delay:-2s" opacity=".7"/><circle cx="573" cy="187" r="1.0" fill="#fff" class="tw" style="animation-delay:-0s" opacity=".7"/><circle cx="770" cy="270" r="1.4" fill="#fff" class="tw" style="animation-delay:-1s" opacity=".7"/><circle cx="967" cy="353" r="1.8" fill="#fff" class="tw" style="animation-delay:-2s" opacity=".7"/><circle cx="1164" cy="436" r="1.0" fill="#fff" class="tw" style="animation-delay:-0s" opacity=".7"/><circle cx="161" cy="519" r="1.4" fill="#fff" class="tw" style="animation-delay:-1s" opacity=".7"/>
+  <text x="26" y="46" font-size="13" font-weight="800" letter-spacing="3" fill="url(#brand)">SPÉCIALISATION IA · COMPÉTENCE PRIORITAIRE</text>
+  <text x="1174" y="46" text-anchor="end" font-size="13" fill="#9a9dc4">8 réalisations en intelligence artificielle</text>
+  <ellipse cx="300" cy="400" rx="150" ry="36" fill="#000" opacity=".5"/><circle cx="300" cy="300" r="110" fill="#8B5CF6" opacity=".35" filter="url(#glow)" class="pulse"/><g class=""><path d="M160 350 L300 420.0 L300 440.0 L160 370 Z" fill="#2b2470"/><path d="M440 350 L300 420.0 L300 440.0 L440 370 Z" fill="#1c1752"/><path d="M300 280.0 L440 350 L300 420.0 L160 350 Z" fill="#1b1a4a"/><path d="M300 280.0 L440 350 L300 420.0 L160 350 Z" fill="none" stroke="#fff" stroke-opacity=".35"/></g><g class="fl"><g class=""><path d="M204 296 L300 344.0 L300 378.0 L204 330 Z" fill="#4c3aa8"/><path d="M396 296 L300 344.0 L300 378.0 L396 330 Z" fill="#2a2275"/><path d="M300 248.0 L396 296 L300 344.0 L204 296 Z" fill="url(#edge)"/><path d="M300 248.0 L396 296 L300 344.0 L204 296 Z" fill="none" stroke="#fff" stroke-opacity=".35"/></g><path d="M204 330" /><path d="M204 330" /><path d="M204 330" /><path d="M204 330" /><path d="M204 330" /><text x="300" y="303" text-anchor="middle" font-size="30" font-weight="900" fill="#0b0d26">IA</text><text x="300" y="322" text-anchor="middle" font-size="10" font-weight="800" letter-spacing="2" fill="#0b0d26">CORE</text></g><line x1="150" y1="120" x2="250" y2="100" stroke="#A78BFA" stroke-opacity=".18"/><line x1="150" y1="120" x2="250" y2="150" stroke="#A78BFA" stroke-opacity=".18"/><line x1="150" y1="120" x2="250" y2="200" stroke="#A78BFA" stroke-opacity=".18"/><line x1="150" y1="120" x2="250" y2="250" stroke="#A78BFA" stroke-opacity=".18"/><line x1="150" y1="170" x2="250" y2="100" stroke="#A78BFA" stroke-opacity=".18"/><line x1="150" y1="170" x2="250" y2="150" stroke="#A78BFA" stroke-opacity=".18"/><line x1="150" y1="170" x2="250" y2="200" stroke="#A78BFA" stroke-opacity=".18"/><line x1="150" y1="170" x2="250" y2="250" stroke="#A78BFA" stroke-opacity=".18"/><line x1="150" y1="220" x2="250" y2="100" stroke="#A78BFA" stroke-opacity=".18"/><line x1="150" y1="220" x2="250" y2="150" stroke="#A78BFA" stroke-opacity=".18"/><line x1="150" y1="220" x2="250" y2="200" stroke="#A78BFA" stroke-opacity=".18"/><line x1="150" y1="220" x2="250" y2="250" stroke="#A78BFA" stroke-opacity=".18"/><line x1="250" y1="100" x2="350" y2="120" stroke="#A78BFA" stroke-opacity=".18"/><line x1="250" y1="100" x2="350" y2="170" stroke="#A78BFA" stroke-opacity=".18"/><line x1="250" y1="100" x2="350" y2="220" stroke="#A78BFA" stroke-opacity=".18"/><line x1="250" y1="150" x2="350" y2="120" stroke="#A78BFA" stroke-opacity=".18"/><line x1="250" y1="150" x2="350" y2="170" stroke="#A78BFA" stroke-opacity=".18"/><line x1="250" y1="150" x2="350" y2="220" stroke="#A78BFA" stroke-opacity=".18"/><line x1="250" y1="200" x2="350" y2="120" stroke="#A78BFA" stroke-opacity=".18"/><line x1="250" y1="200" x2="350" y2="170" stroke="#A78BFA" stroke-opacity=".18"/><line x1="250" y1="200" x2="350" y2="220" stroke="#A78BFA" stroke-opacity=".18"/><line x1="250" y1="250" x2="350" y2="120" stroke="#A78BFA" stroke-opacity=".18"/><line x1="250" y1="250" x2="350" y2="170" stroke="#A78BFA" stroke-opacity=".18"/><line x1="250" y1="250" x2="350" y2="220" stroke="#A78BFA" stroke-opacity=".18"/><line x1="350" y1="120" x2="450" y2="170" stroke="#A78BFA" stroke-opacity=".18"/><line x1="350" y1="170" x2="450" y2="170" stroke="#A78BFA" stroke-opacity=".18"/><line x1="350" y1="220" x2="450" y2="170" stroke="#A78BFA" stroke-opacity=".18"/><circle r="3.2" fill="#67E8F9"><animateMotion dur="1.6s" begin="-0.0s" repeatCount="indefinite" path="M150,120 L250,100"/></circle><circle r="3.2" fill="#67E8F9"><animateMotion dur="1.9500000000000002s" begin="-0.3s" repeatCount="indefinite" path="M150,170 L250,150"/></circle><circle r="3.2" fill="#67E8F9"><animateMotion dur="2.3s" begin="-0.6s" repeatCount="indefinite" path="M150,220 L250,200"/></circle><circle r="3.2" fill="#67E8F9"><animateMotion dur="2.65s" begin="-0.9s" repeatCount="indefinite" path="M250,100 L350,120"/></circle><circle r="3.2" fill="#67E8F9"><animateMotion dur="1.6s" begin="-1.2s" repeatCount="indefinite" path="M250,150 L350,170"/></circle><circle r="3.2" fill="#67E8F9"><animateMotion dur="1.9500000000000002s" begin="-1.5s" repeatCount="indefinite" path="M250,200 L350,220"/></circle><circle r="3.2" fill="#67E8F9"><animateMotion dur="2.3s" begin="-1.8s" repeatCount="indefinite" path="M250,250 L350,120"/></circle><circle r="3.2" fill="#67E8F9"><animateMotion dur="2.65s" begin="-2.1s" repeatCount="indefinite" path="M350,120 L450,170"/></circle><circle r="3.2" fill="#67E8F9"><animateMotion dur="1.6s" begin="-2.4s" repeatCount="indefinite" path="M350,170 L450,170"/></circle><circle r="3.2" fill="#67E8F9"><animateMotion dur="1.9500000000000002s" begin="-2.7s" repeatCount="indefinite" path="M350,220 L450,170"/></circle><circle cx="150" cy="120" r="9" fill="#11143a" stroke="#22D3EE" stroke-width="2"/><circle cx="150" cy="120" r="4" fill="#22D3EE" class="pulse" style="animation-delay:-0s"/><circle cx="150" cy="170" r="9" fill="#11143a" stroke="#22D3EE" stroke-width="2"/><circle cx="150" cy="170" r="4" fill="#22D3EE" class="pulse" style="animation-delay:-2s"/><circle cx="150" cy="220" r="9" fill="#11143a" stroke="#22D3EE" stroke-width="2"/><circle cx="150" cy="220" r="4" fill="#22D3EE" class="pulse" style="animation-delay:-1s"/><circle cx="250" cy="100" r="9" fill="#11143a" stroke="#22D3EE" stroke-width="2"/><circle cx="250" cy="100" r="4" fill="#22D3EE" class="pulse" style="animation-delay:-2s"/><circle cx="250" cy="150" r="9" fill="#11143a" stroke="#22D3EE" stroke-width="2"/><circle cx="250" cy="150" r="4" fill="#22D3EE" class="pulse" style="animation-delay:-1s"/><circle cx="250" cy="200" r="9" fill="#11143a" stroke="#22D3EE" stroke-width="2"/><circle cx="250" cy="200" r="4" fill="#22D3EE" class="pulse" style="animation-delay:-0s"/><circle cx="250" cy="250" r="9" fill="#11143a" stroke="#22D3EE" stroke-width="2"/><circle cx="250" cy="250" r="4" fill="#22D3EE" class="pulse" style="animation-delay:-2s"/><circle cx="350" cy="120" r="9" fill="#11143a" stroke="#22D3EE" stroke-width="2"/><circle cx="350" cy="120" r="4" fill="#22D3EE" class="pulse" style="animation-delay:-2s"/><circle cx="350" cy="170" r="9" fill="#11143a" stroke="#22D3EE" stroke-width="2"/><circle cx="350" cy="170" r="4" fill="#22D3EE" class="pulse" style="animation-delay:-1s"/><circle cx="350" cy="220" r="9" fill="#11143a" stroke="#22D3EE" stroke-width="2"/><circle cx="350" cy="220" r="4" fill="#22D3EE" class="pulse" style="animation-delay:-0s"/><circle cx="450" cy="170" r="9" fill="#11143a" stroke="#22D3EE" stroke-width="2"/><circle cx="450" cy="170" r="4" fill="#22D3EE" class="pulse" style="animation-delay:-2s"/><text x="450" y="205" text-anchor="middle" font-size="11" font-weight="800" fill="#FBBF24">décision</text><rect x="60" y="476" width="480" height="46" rx="14" fill="#8B5CF6" fill-opacity=".1" stroke="#8B5CF6" stroke-opacity=".5"/><text x="80" y="505" font-size="14" font-weight="700" fill="#C4B5FD">▶ Priorité : l’IA appliquée, exécutée en local et en temps réel</text><g class="in" style="animation-delay:0.0s">
+    <path d="M868 92 l8 8 v78 l-8 -8 Z" fill="#22D3EE" fill-opacity=".35"/>
+    <path d="M614 170 l8 8 h254 l-8 -8 Z" fill="#22D3EE" fill-opacity=".22"/>
+    <rect x="600" y="78" width="268" height="92" rx="18" fill="#11143a"/>
+    <rect x="600" y="78" width="268" height="92" rx="18" fill="url(#sheen)"/>
+    <rect x="600.5" y="78.5" width="267" height="91" rx="18" fill="none" stroke="#fff" stroke-opacity=".08"/>
+    <rect x="600.5" y="78.5" width="267" height="91" rx="18" fill="none" stroke="url(#edge)" stroke-opacity=".45" stroke-width="1.2"/>
+      <rect x="616" y="96" width="38" height="38" rx="10" fill="#22D3EE" fill-opacity=".16" stroke="#22D3EE" stroke-opacity=".7"/>
+      <text x="635" y="121" text-anchor="middle" font-size="16" font-weight="900" fill="#fff">1</text>
+      <text x="666" y="111" font-size="14.5" font-weight="800" fill="#fff">LLM fine-tuné en local</text>
+      <text x="666" y="130" font-size="11.5" fill="#c9cbf0">Llama 3.2 3B · LoRA / QLoRA</text>
+      <text x="666" y="150" font-size="10.5" font-weight="800" letter-spacing="1.2" fill="#22D3EE">MEDAICHAIN</text></g><g class="in" style="animation-delay:0.12s">
+    <path d="M1158 92 l8 8 v78 l-8 -8 Z" fill="#22D3EE" fill-opacity=".35"/>
+    <path d="M904 170 l8 8 h254 l-8 -8 Z" fill="#22D3EE" fill-opacity=".22"/>
+    <rect x="890" y="78" width="268" height="92" rx="18" fill="#11143a"/>
+    <rect x="890" y="78" width="268" height="92" rx="18" fill="url(#sheen)"/>
+    <rect x="890.5" y="78.5" width="267" height="91" rx="18" fill="none" stroke="#fff" stroke-opacity=".08"/>
+    <rect x="890.5" y="78.5" width="267" height="91" rx="18" fill="none" stroke="url(#edge)" stroke-opacity=".45" stroke-width="1.2"/>
+      <rect x="906" y="96" width="38" height="38" rx="10" fill="#22D3EE" fill-opacity=".16" stroke="#22D3EE" stroke-opacity=".7"/>
+      <text x="925" y="121" text-anchor="middle" font-size="16" font-weight="900" fill="#fff">2</text>
+      <text x="956" y="111" font-size="14.5" font-weight="800" fill="#fff">OCR médical</text>
+      <text x="956" y="130" font-size="11.5" fill="#c9cbf0">20 biomarqueurs extraits</text>
+      <text x="956" y="150" font-size="10.5" font-weight="800" letter-spacing="1.2" fill="#22D3EE">MEDAICHAIN</text></g><g class="in" style="animation-delay:0.24s">
+    <path d="M868 204 l8 8 v78 l-8 -8 Z" fill="#FBBF24" fill-opacity=".35"/>
+    <path d="M614 282 l8 8 h254 l-8 -8 Z" fill="#FBBF24" fill-opacity=".22"/>
+    <rect x="600" y="190" width="268" height="92" rx="18" fill="#11143a"/>
+    <rect x="600" y="190" width="268" height="92" rx="18" fill="url(#sheen)"/>
+    <rect x="600.5" y="190.5" width="267" height="91" rx="18" fill="none" stroke="#fff" stroke-opacity=".08"/>
+    <rect x="600.5" y="190.5" width="267" height="91" rx="18" fill="none" stroke="url(#edge)" stroke-opacity=".45" stroke-width="1.2"/>
+      <rect x="616" y="208" width="38" height="38" rx="10" fill="#FBBF24" fill-opacity=".16" stroke="#FBBF24" stroke-opacity=".7"/>
+      <text x="635" y="233" text-anchor="middle" font-size="16" font-weight="900" fill="#fff">3</text>
+      <text x="666" y="223" font-size="14.5" font-weight="800" fill="#fff">6 modèles de ML</text>
+      <text x="666" y="242" font-size="11.5" fill="#c9cbf0">93,5 % pathologie · 93,4 % triage</text>
+      <text x="666" y="262" font-size="10.5" font-weight="800" letter-spacing="1.2" fill="#FBBF24">MEDAICHAIN</text></g><g class="in" style="animation-delay:0.36s">
+    <path d="M1158 204 l8 8 v78 l-8 -8 Z" fill="#8B5CF6" fill-opacity=".35"/>
+    <path d="M904 282 l8 8 h254 l-8 -8 Z" fill="#8B5CF6" fill-opacity=".22"/>
+    <rect x="890" y="190" width="268" height="92" rx="18" fill="#11143a"/>
+    <rect x="890" y="190" width="268" height="92" rx="18" fill="url(#sheen)"/>
+    <rect x="890.5" y="190.5" width="267" height="91" rx="18" fill="none" stroke="#fff" stroke-opacity=".08"/>
+    <rect x="890.5" y="190.5" width="267" height="91" rx="18" fill="none" stroke="url(#edge)" stroke-opacity=".45" stroke-width="1.2"/>
+      <rect x="906" y="208" width="38" height="38" rx="10" fill="#8B5CF6" fill-opacity=".16" stroke="#8B5CF6" stroke-opacity=".7"/>
+      <text x="925" y="233" text-anchor="middle" font-size="16" font-weight="900" fill="#fff">4</text>
+      <text x="956" y="223" font-size="14.5" font-weight="800" fill="#fff">Détection de fraude</text>
+      <text x="956" y="242" font-size="11.5" fill="#c9cbf0">XGBoost · Kafka temps réel</text>
+      <text x="956" y="262" font-size="10.5" font-weight="800" letter-spacing="1.2" fill="#8B5CF6">SMARTOVATE</text></g><g class="in" style="animation-delay:0.48s">
+    <path d="M868 316 l8 8 v78 l-8 -8 Z" fill="#8B5CF6" fill-opacity=".35"/>
+    <path d="M614 394 l8 8 h254 l-8 -8 Z" fill="#8B5CF6" fill-opacity=".22"/>
+    <rect x="600" y="302" width="268" height="92" rx="18" fill="#11143a"/>
+    <rect x="600" y="302" width="268" height="92" rx="18" fill="url(#sheen)"/>
+    <rect x="600.5" y="302.5" width="267" height="91" rx="18" fill="none" stroke="#fff" stroke-opacity=".08"/>
+    <rect x="600.5" y="302.5" width="267" height="91" rx="18" fill="none" stroke="url(#edge)" stroke-opacity=".45" stroke-width="1.2"/>
+      <rect x="616" y="320" width="38" height="38" rx="10" fill="#8B5CF6" fill-opacity=".16" stroke="#8B5CF6" stroke-opacity=".7"/>
+      <text x="635" y="345" text-anchor="middle" font-size="16" font-weight="900" fill="#fff">5</text>
+      <text x="666" y="335" font-size="14.5" font-weight="800" fill="#fff">Assistant IA local</text>
+      <text x="666" y="354" font-size="11.5" fill="#c9cbf0">Ollama · Qwen 2.5 · appel d’outils</text>
+      <text x="666" y="374" font-size="10.5" font-weight="800" letter-spacing="1.2" fill="#8B5CF6">VOLTEO</text></g><g class="in" style="animation-delay:0.6s">
+    <path d="M1158 316 l8 8 v78 l-8 -8 Z" fill="#EC4899" fill-opacity=".35"/>
+    <path d="M904 394 l8 8 h254 l-8 -8 Z" fill="#EC4899" fill-opacity=".22"/>
+    <rect x="890" y="302" width="268" height="92" rx="18" fill="#11143a"/>
+    <rect x="890" y="302" width="268" height="92" rx="18" fill="url(#sheen)"/>
+    <rect x="890.5" y="302.5" width="267" height="91" rx="18" fill="none" stroke="#fff" stroke-opacity=".08"/>
+    <rect x="890.5" y="302.5" width="267" height="91" rx="18" fill="none" stroke="url(#edge)" stroke-opacity=".45" stroke-width="1.2"/>
+      <rect x="906" y="320" width="38" height="38" rx="10" fill="#EC4899" fill-opacity=".16" stroke="#EC4899" stroke-opacity=".7"/>
+      <text x="925" y="345" text-anchor="middle" font-size="16" font-weight="900" fill="#fff">6</text>
+      <text x="956" y="335" font-size="14.5" font-weight="800" fill="#fff">Computer Vision</text>
+      <text x="956" y="354" font-size="11.5" fill="#c9cbf0">OpenCV · certification NVIDIA</text>
+      <text x="956" y="374" font-size="10.5" font-weight="800" letter-spacing="1.2" fill="#EC4899">ESPRIT</text></g><g class="in" style="animation-delay:0.72s">
+    <path d="M868 428 l8 8 v78 l-8 -8 Z" fill="#EC4899" fill-opacity=".35"/>
+    <path d="M614 506 l8 8 h254 l-8 -8 Z" fill="#EC4899" fill-opacity=".22"/>
+    <rect x="600" y="414" width="268" height="92" rx="18" fill="#11143a"/>
+    <rect x="600" y="414" width="268" height="92" rx="18" fill="url(#sheen)"/>
+    <rect x="600.5" y="414.5" width="267" height="91" rx="18" fill="none" stroke="#fff" stroke-opacity=".08"/>
+    <rect x="600.5" y="414.5" width="267" height="91" rx="18" fill="none" stroke="url(#edge)" stroke-opacity=".45" stroke-width="1.2"/>
+      <rect x="616" y="432" width="38" height="38" rx="10" fill="#EC4899" fill-opacity=".16" stroke="#EC4899" stroke-opacity=".7"/>
+      <text x="635" y="457" text-anchor="middle" font-size="16" font-weight="900" fill="#fff">7</text>
+      <text x="666" y="447" font-size="14.5" font-weight="800" fill="#fff">IA générative</text>
+      <text x="666" y="466" font-size="11.5" fill="#c9cbf0">Composition musicale · ElevenLabs</text>
+      <text x="666" y="486" font-size="10.5" font-weight="800" letter-spacing="1.2" fill="#EC4899">STUDIO DE MUSIQUE</text></g><g class="in" style="animation-delay:0.84s">
+    <path d="M1158 428 l8 8 v78 l-8 -8 Z" fill="#22D3EE" fill-opacity=".35"/>
+    <path d="M904 506 l8 8 h254 l-8 -8 Z" fill="#22D3EE" fill-opacity=".22"/>
+    <rect x="890" y="414" width="268" height="92" rx="18" fill="#11143a"/>
+    <rect x="890" y="414" width="268" height="92" rx="18" fill="url(#sheen)"/>
+    <rect x="890.5" y="414.5" width="267" height="91" rx="18" fill="none" stroke="#fff" stroke-opacity=".08"/>
+    <rect x="890.5" y="414.5" width="267" height="91" rx="18" fill="none" stroke="url(#edge)" stroke-opacity=".45" stroke-width="1.2"/>
+      <rect x="906" y="432" width="38" height="38" rx="10" fill="#22D3EE" fill-opacity=".16" stroke="#22D3EE" stroke-opacity=".7"/>
+      <text x="925" y="457" text-anchor="middle" font-size="16" font-weight="900" fill="#fff">8</text>
+      <text x="956" y="447" font-size="14.5" font-weight="800" fill="#fff">Gemini intégré</text>
+      <text x="956" y="466" font-size="11.5" fill="#c9cbf0">Résumer, traduire, approfondir</text>
+      <text x="956" y="486" font-size="10.5" font-weight="800" letter-spacing="1.2" fill="#22D3EE">MENTORABALL</text></g>
+  </g>
+</svg>
