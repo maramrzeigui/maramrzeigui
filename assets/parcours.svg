@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 520" width="1200" height="520" role="img" aria-label="Maram Rzeigui : parcours et carrière">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 262 1200 258" width="1200" height="258" role="img" aria-label="Maram Rzeigui : parcours et carrière">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#060918"/><stop offset=".55" stop-color="#0d1030"/><stop offset="1" stop-color="#1a0d3a"/></linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#030014"/><stop offset=".55" stop-color="#05011a"/><stop offset="1" stop-color="#0f0628"/></linearGradient>
     <radialGradient id="a1" cx=".1" cy=".25" r=".45"><stop offset="0" stop-color="#22D3EE" stop-opacity=".22"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
     <radialGradient id="a2" cx=".88" cy=".15" r=".45"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".32"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
     <radialGradient id="a3" cx=".6" cy="1" r=".5"><stop offset="0" stop-color="#EC4899" stop-opacity=".18"/><stop offset="1" stop-color="#EC4899" stop-opacity="0"/></radialGradient>
@@ -12,7 +12,7 @@
     <clipPath id="photo"><circle cx="138" cy="150" r="78"/></clipPath>
     <filter id="glow" x="-1" y="-1" width="3" height="3"><feGaussianBlur stdDeviation="7"/></filter>
     <filter id="halo" x="-1" y="-1" width="3" height="3"><feGaussianBlur stdDeviation="22"/></filter>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8B5CF6" stroke-opacity=".07"/></pattern>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#7042F8" stroke-opacity=".03"/></pattern>
     <style>
       .t{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
       .spin{animation:spin 12s linear infinite;transform-origin:138px 150px}@keyframes spin{to{transform:rotate(360deg)}}

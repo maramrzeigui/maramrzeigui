@@ -1,15 +1,21 @@
 <div align="center">
 
-<img src="assets/banniere-base.svg" width="100%" alt="Maram Rzeigui, élève ingénieure Mobile, Full Stack et IA" />
+<img src="assets/espace.svg" width="100%" alt="Maram Rzeigui, élève ingénieure Mobile, Full Stack et IA" />
 
 <a href="https://www.linkedin.com/in/maram-rzeigui/"><img src="https://img.shields.io/badge/LinkedIn-Maram_Rzeigui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:maram.rzeigui@esprit.tn"><img src="https://img.shields.io/badge/E--mail-maram.rzeigui@esprit.tn-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://portfolio-nine-lime-qt6zbk7swp.vercel.app"><img src="https://img.shields.io/badge/Portfolio-en_ligne-121215?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=21&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=Je+livre+des+produits+complets%2C+du+cahier+des+charges+%C3%A0+la+production;Mobile+offline-first+%C2%B7+IA+locale+%C2%B7+pipelines+temps+r%C3%A9el;En+recherche+d%27un+PFE+de+6+mois+%C2%B7+f%C3%A9vrier+2027" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=21&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=Je+livre+des+produits+complets%2C+du+cahier+des+charges+%C3%A0+la+production;Mobile+offline-first+%C2%B7+IA+locale+%C2%B7+pipelines+temps+r%C3%A9el;En+recherche+d%27un+PFE+de+6+mois+%C2%B7+f%C3%A9vrier+2027" alt="Typing" />
 
 </div>
 
+
+## Mon parcours
+
+<div align="center">
+<img src="assets/parcours.svg" width="100%" alt="Parcours : niveaux débloqués" />
+</div>
 
 ## Spécialisation IA
 
@@ -145,10 +151,10 @@
 <br/><br/>
 <img width="100%" src="https://raw.githubusercontent.com/maramrzeigui/maramrzeigui/output/serpent.svg" alt="Serpent des contributions" />
 <br/><br/>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=maramrzeigui&show_icons=true&hide_border=true&bg_color=0d1030&title_color=A78BFA&icon_color=22D3EE&text_color=d0d0d6&include_all_commits=true&count_private=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maramrzeigui&layout=compact&hide_border=true&bg_color=0d1030&title_color=A78BFA&text_color=d0d0d6&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=maramrzeigui&show_icons=true&hide_border=true&bg_color=030014&title_color=A78BFA&icon_color=22D3EE&text_color=d0d0d6&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maramrzeigui&layout=compact&hide_border=true&bg_color=030014&title_color=A78BFA&text_color=d0d0d6&langs_count=8" />
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:22D3EE,50:8B5CF6,100:EC4899" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:030014,50:7042F8,100:22D3EE" width="100%" />
 </div>
