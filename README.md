@@ -208,8 +208,6 @@ Randonnée au Parc National de Jebel Chitana – Cap Negro : cartes hors ligne, 
 <br/><br/>
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=maramrzeigui&show_icons=true&hide_border=true&bg_color=121215&title_color=E5545F&icon_color=E5545F&text_color=d0d0d6&include_all_commits=true&count_private=true&rank_icon=github" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maramrzeigui&layout=compact&hide_border=true&bg_color=121215&title_color=E5545F&text_color=d0d0d6&langs_count=8" />
-<br/>
-<img width="85%" src="https://streak-stats.demolab.com?user=maramrzeigui&hide_border=true&background=121215&ring=E5545F&fire=E5545F&currStreakLabel=E5545F&sideLabels=d0d0d6&currStreakNum=ffffff&sideNums=ffffff&dates=8b8b95&locale=fr" />
 </div>
 
 <div align="center">
