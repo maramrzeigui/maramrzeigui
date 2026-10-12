@@ -26,7 +26,7 @@
 ## Expérience
 
 <div align="center">
-<img src="assets/experiences.svg" width="100%" alt="Journal de missions : Smartovate, RZ Prod, Speranza Pizza, Linedata" />
+<img src="assets/missions.svg" width="100%" alt="Journal de missions" />
 </div>
 
 <details>
