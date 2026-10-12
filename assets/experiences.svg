@@ -24,7 +24,7 @@
   <g class="card" style="animation-delay:0.0s">
     <rect x="22" y="78" width="566" height="300" rx="20" fill="#11143a" fill-opacity=".85"/>
     <rect x="22" y="78" width="566" height="300" rx="20" fill="url(#sheen)"/>
-    <rect x="22.5" y="78.5" width="565" height="299" rx="20" fill="none" stroke="url(#edge)" stroke-width="1.5" stroke-dasharray="380 1400" class="sweep" style="animation-delay:0.0s"/>
+    
     <rect x="22.5" y="78.5" width="565" height="299" rx="20" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
     <rect x="22" y="100" width="4" height="54" rx="2" fill="#22D3EE"/>
     <rect x="48" y="100" width="54" height="54" rx="14" fill="#22D3EE" fill-opacity=".16" stroke="#22D3EE" stroke-opacity=".6"/>
@@ -42,7 +42,7 @@
   <g class="card" style="animation-delay:0.35s">
     <rect x="612" y="78" width="566" height="300" rx="20" fill="#11143a" fill-opacity=".85"/>
     <rect x="612" y="78" width="566" height="300" rx="20" fill="url(#sheen)"/>
-    <rect x="612.5" y="78.5" width="565" height="299" rx="20" fill="none" stroke="url(#edge)" stroke-width="1.5" stroke-dasharray="380 1400" class="sweep" style="animation-delay:0.35s"/>
+    
     <rect x="612.5" y="78.5" width="565" height="299" rx="20" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
     <rect x="612" y="100" width="4" height="54" rx="2" fill="#8B5CF6"/>
     <rect x="638" y="100" width="54" height="54" rx="14" fill="#8B5CF6" fill-opacity=".16" stroke="#8B5CF6" stroke-opacity=".6"/>
@@ -60,7 +60,7 @@
   <g class="card" style="animation-delay:0.7s">
     <rect x="22" y="402" width="566" height="300" rx="20" fill="#11143a" fill-opacity=".85"/>
     <rect x="22" y="402" width="566" height="300" rx="20" fill="url(#sheen)"/>
-    <rect x="22.5" y="402.5" width="565" height="299" rx="20" fill="none" stroke="url(#edge)" stroke-width="1.5" stroke-dasharray="380 1400" class="sweep" style="animation-delay:0.7s"/>
+    
     <rect x="22.5" y="402.5" width="565" height="299" rx="20" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
     <rect x="22" y="424" width="4" height="54" rx="2" fill="#EC4899"/>
     <rect x="48" y="424" width="54" height="54" rx="14" fill="#EC4899" fill-opacity=".16" stroke="#EC4899" stroke-opacity=".6"/>
@@ -78,7 +78,7 @@
   <g class="card" style="animation-delay:1.0499999999999998s">
     <rect x="612" y="402" width="566" height="300" rx="20" fill="#11143a" fill-opacity=".85"/>
     <rect x="612" y="402" width="566" height="300" rx="20" fill="url(#sheen)"/>
-    <rect x="612.5" y="402.5" width="565" height="299" rx="20" fill="none" stroke="url(#edge)" stroke-width="1.5" stroke-dasharray="380 1400" class="sweep" style="animation-delay:1.0499999999999998s"/>
+    
     <rect x="612.5" y="402.5" width="565" height="299" rx="20" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
     <rect x="612" y="424" width="4" height="54" rx="2" fill="#67E8F9"/>
     <rect x="638" y="424" width="54" height="54" rx="14" fill="#67E8F9" fill-opacity=".16" stroke="#67E8F9" stroke-opacity=".6"/>

@@ -53,24 +53,24 @@
     <rect x="600" y="96" width="260" height="124" rx="18" fill="#11143a"/>
     <rect x="600" y="96" width="260" height="124" rx="18" fill="url(#sheen)"/>
     <rect x="600.5" y="96.5" width="259" height="123" rx="18" fill="none" stroke="#fff" stroke-opacity=".08"/>
-    <rect x="600.5" y="96.5" width="259" height="123" rx="18" fill="none" stroke="url(#edge)" stroke-width="1.5" stroke-dasharray="320 1700" class="sweep" style="animation-delay:0.0s"/><text x="622" y="130" font-size="11" font-weight="800" letter-spacing="2" fill="#22D3EE">MEDAICHAIN</text><text x="622" y="176" font-size="38" font-weight="800" fill="url(#kpi)">93,5 %</text><text x="622" y="200" font-size="13" fill="#a5a8c9">précision IA</text></g></g><g class="in" style="animation-delay:0.44999999999999996s"><g class="fl" style="animation-delay:-1.2s">
+    <rect x="600.5" y="96.5" width="259" height="123" rx="18" fill="none" stroke="url(#edge)" stroke-opacity=".45" stroke-width="1.2"/><text x="622" y="130" font-size="11" font-weight="800" letter-spacing="2" fill="#22D3EE">MEDAICHAIN</text><text x="622" y="176" font-size="38" font-weight="800" fill="url(#kpi)">93,5 %</text><text x="622" y="200" font-size="13" fill="#a5a8c9">précision IA</text></g></g><g class="in" style="animation-delay:0.44999999999999996s"><g class="fl" style="animation-delay:-1.2s">
     <path d="M1145 110 l12 12 v110 l-12 -12 Z" fill="#8B5CF6" fill-opacity=".35"/>
     <path d="M899 220 l12 12 h246 l-12 -12 Z" fill="#8B5CF6" fill-opacity=".22"/>
     <rect x="885" y="96" width="260" height="124" rx="18" fill="#11143a"/>
     <rect x="885" y="96" width="260" height="124" rx="18" fill="url(#sheen)"/>
     <rect x="885.5" y="96.5" width="259" height="123" rx="18" fill="none" stroke="#fff" stroke-opacity=".08"/>
-    <rect x="885.5" y="96.5" width="259" height="123" rx="18" fill="none" stroke="url(#edge)" stroke-width="1.5" stroke-dasharray="320 1700" class="sweep" style="animation-delay:0.6s"/><text x="907" y="130" font-size="11" font-weight="800" letter-spacing="2" fill="#8B5CF6">RZ PROD</text><text x="907" y="176" font-size="38" font-weight="800" fill="url(#kpi)">100 %</text><text x="907" y="200" font-size="13" fill="#a5a8c9">hors ligne</text></g></g><g class="in" style="animation-delay:0.6s"><g class="fl" style="animation-delay:-2.4s">
+    <rect x="885.5" y="96.5" width="259" height="123" rx="18" fill="none" stroke="url(#edge)" stroke-opacity=".45" stroke-width="1.2"/><text x="907" y="130" font-size="11" font-weight="800" letter-spacing="2" fill="#8B5CF6">RZ PROD</text><text x="907" y="176" font-size="38" font-weight="800" fill="url(#kpi)">100 %</text><text x="907" y="200" font-size="13" fill="#a5a8c9">hors ligne</text></g></g><g class="in" style="animation-delay:0.6s"><g class="fl" style="animation-delay:-2.4s">
     <path d="M860 260 l12 12 v110 l-12 -12 Z" fill="#EC4899" fill-opacity=".35"/>
     <path d="M614 370 l12 12 h246 l-12 -12 Z" fill="#EC4899" fill-opacity=".22"/>
     <rect x="600" y="246" width="260" height="124" rx="18" fill="#11143a"/>
     <rect x="600" y="246" width="260" height="124" rx="18" fill="url(#sheen)"/>
     <rect x="600.5" y="246.5" width="259" height="123" rx="18" fill="none" stroke="#fff" stroke-opacity=".08"/>
-    <rect x="600.5" y="246.5" width="259" height="123" rx="18" fill="none" stroke="url(#edge)" stroke-width="1.5" stroke-dasharray="320 1700" class="sweep" style="animation-delay:1.2s"/><text x="622" y="280" font-size="11" font-weight="800" letter-spacing="2" fill="#EC4899">SPERANZA</text><text x="622" y="326" font-size="38" font-weight="800" fill="url(#kpi)">20 / jour</text><text x="622" y="350" font-size="13" fill="#a5a8c9">commandes</text></g></g><g class="in" style="animation-delay:0.75s"><g class="fl" style="animation-delay:-3.5999999999999996s">
+    <rect x="600.5" y="246.5" width="259" height="123" rx="18" fill="none" stroke="url(#edge)" stroke-opacity=".45" stroke-width="1.2"/><text x="622" y="280" font-size="11" font-weight="800" letter-spacing="2" fill="#EC4899">SPERANZA</text><text x="622" y="326" font-size="38" font-weight="800" fill="url(#kpi)">20 / jour</text><text x="622" y="350" font-size="13" fill="#a5a8c9">commandes</text></g></g><g class="in" style="animation-delay:0.75s"><g class="fl" style="animation-delay:-3.5999999999999996s">
     <path d="M1145 260 l12 12 v110 l-12 -12 Z" fill="#FBBF24" fill-opacity=".35"/>
     <path d="M899 370 l12 12 h246 l-12 -12 Z" fill="#FBBF24" fill-opacity=".22"/>
     <rect x="885" y="246" width="260" height="124" rx="18" fill="#11143a"/>
     <rect x="885" y="246" width="260" height="124" rx="18" fill="url(#sheen)"/>
     <rect x="885.5" y="246.5" width="259" height="123" rx="18" fill="none" stroke="#fff" stroke-opacity=".08"/>
-    <rect x="885.5" y="246.5" width="259" height="123" rx="18" fill="none" stroke="url(#edge)" stroke-width="1.5" stroke-dasharray="320 1700" class="sweep" style="animation-delay:1.7999999999999998s"/><text x="907" y="280" font-size="11" font-weight="800" letter-spacing="2" fill="#FBBF24">VOLTEO</text><text x="907" y="326" font-size="38" font-weight="800" fill="url(#kpi)">OCPP</text><text x="907" y="350" font-size="13" fill="#a5a8c9">bornes réelles</text></g></g>
+    <rect x="885.5" y="246.5" width="259" height="123" rx="18" fill="none" stroke="url(#edge)" stroke-opacity=".45" stroke-width="1.2"/><text x="907" y="280" font-size="11" font-weight="800" letter-spacing="2" fill="#FBBF24">VOLTEO</text><text x="907" y="326" font-size="38" font-weight="800" fill="url(#kpi)">OCPP</text><text x="907" y="350" font-size="13" fill="#a5a8c9">bornes réelles</text></g></g>
   </g>
 </svg>

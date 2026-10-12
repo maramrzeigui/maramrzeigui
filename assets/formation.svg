@@ -34,7 +34,7 @@
     <rect x="40" y="80" width="520" height="126" rx="18" fill="#11143a"/>
     <rect x="40" y="80" width="520" height="126" rx="18" fill="url(#sheen)"/>
     <rect x="40.5" y="80.5" width="519" height="125" rx="18" fill="none" stroke="#fff" stroke-opacity=".08"/>
-    <rect x="40.5" y="80.5" width="519" height="125" rx="18" fill="none" stroke="url(#edge)" stroke-width="1.5" stroke-dasharray="320 1700" class="sweep" style="animation-delay:0.0s"/>
+    <rect x="40.5" y="80.5" width="519" height="125" rx="18" fill="none" stroke="url(#edge)" stroke-opacity=".45" stroke-width="1.2"/>
       <g class="fl" style="animation-delay:-0s"><g class=""><path d="M78 134 L112 151.0 L112 177.0 L78 160 Z" fill="#2b2470"/><path d="M146 134 L112 151.0 L112 177.0 L146 160 Z" fill="#1c1752"/><path d="M112 117.0 L146 134 L112 151.0 L78 134 Z" fill="url(#edge)"/><path d="M112 117.0 L146 134 L112 151.0 L78 134 Z" fill="none" stroke="#fff" stroke-opacity=".35"/></g>
       <text x="112" y="139" text-anchor="middle" font-size="12" font-weight="800" fill="#0b0d26">ESPRIT</text></g>
       <text x="172" y="128" font-size="17" font-weight="800" fill="#fff">Diplôme d’ingénieur en informatique</text>
@@ -46,7 +46,7 @@
     <rect x="40" y="230" width="520" height="126" rx="18" fill="#11143a"/>
     <rect x="40" y="230" width="520" height="126" rx="18" fill="url(#sheen)"/>
     <rect x="40.5" y="230.5" width="519" height="125" rx="18" fill="none" stroke="#fff" stroke-opacity=".08"/>
-    <rect x="40.5" y="230.5" width="519" height="125" rx="18" fill="none" stroke="url(#edge)" stroke-width="1.5" stroke-dasharray="320 1700" class="sweep" style="animation-delay:0.6s"/>
+    <rect x="40.5" y="230.5" width="519" height="125" rx="18" fill="none" stroke="url(#edge)" stroke-opacity=".45" stroke-width="1.2"/>
       <g class="fl" style="animation-delay:-1s"><g class=""><path d="M78 284 L112 301.0 L112 327.0 L78 310 Z" fill="#7c5a12"/><path d="M146 284 L112 301.0 L112 327.0 L146 310 Z" fill="#5a3f0a"/><path d="M112 267.0 L146 284 L112 301.0 L78 284 Z" fill="url(#gold)"/><path d="M112 267.0 L146 284 L112 301.0 L78 284 Z" fill="none" stroke="#fff" stroke-opacity=".35"/></g>
       <text x="112" y="289" text-anchor="middle" font-size="12" font-weight="800" fill="#0b0d26">NVIDIA</text></g>
       <text x="172" y="278" font-size="17" font-weight="800" fill="#fff">Computer Vision (OpenCV)</text>

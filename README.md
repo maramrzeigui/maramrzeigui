@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banniere-parcours.svg" width="100%" alt="Maram Rzeigui, élève ingénieure Mobile, Full Stack et IA" />
+<img src="assets/banniere-3d.svg" width="100%" alt="Maram Rzeigui, élève ingénieure Mobile, Full Stack et IA" />
 
 <a href="https://www.linkedin.com/in/maram-rzeigui/"><img src="https://img.shields.io/badge/LinkedIn-Maram_Rzeigui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:maram.rzeigui@esprit.tn"><img src="https://img.shields.io/badge/E--mail-maram.rzeigui@esprit.tn-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>

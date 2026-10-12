@@ -34,7 +34,7 @@
     <rect x="30" y="80" width="360" height="330" rx="18" fill="#11143a"/>
     <rect x="30" y="80" width="360" height="330" rx="18" fill="url(#sheen)"/>
     <rect x="30.5" y="80.5" width="359" height="329" rx="18" fill="none" stroke="#fff" stroke-opacity=".08"/>
-    <rect x="30.5" y="80.5" width="359" height="329" rx="18" fill="none" stroke="url(#edge)" stroke-width="1.5" stroke-dasharray="320 1700" class="sweep" style="animation-delay:0.0s"/>
+    <rect x="30.5" y="80.5" width="359" height="329" rx="18" fill="none" stroke="url(#edge)" stroke-opacity=".45" stroke-width="1.2"/>
       <rect x="50" y="102" width="106" height="24" rx="12" fill="#FBBF24" fill-opacity=".16" stroke="#FBBF24" stroke-opacity=".75"/>
       <text x="63" y="118.5" font-size="10.5" font-weight="800" letter-spacing="1.4" fill="#FBBF24">LÉGENDAIRE</text><text x="366" y="120" text-anchor="end" font-size="13" fill="#FBBF24">★</text><text x="351" y="120" text-anchor="end" font-size="13" fill="#FBBF24">★</text><text x="336" y="120" text-anchor="end" font-size="13" fill="#FBBF24">★</text><text x="321" y="120" text-anchor="end" font-size="13" fill="#FBBF24">★</text><text x="306" y="120" text-anchor="end" font-size="13" fill="#FBBF24">★</text>
       <circle cx="210.0" cy="185" r="40" fill="#FBBF24" opacity=".22" filter="url(#glow)"/>
@@ -48,7 +48,7 @@
     <rect x="420" y="80" width="360" height="330" rx="18" fill="#11143a"/>
     <rect x="420" y="80" width="360" height="330" rx="18" fill="url(#sheen)"/>
     <rect x="420.5" y="80.5" width="359" height="329" rx="18" fill="none" stroke="#fff" stroke-opacity=".08"/>
-    <rect x="420.5" y="80.5" width="359" height="329" rx="18" fill="none" stroke="url(#edge)" stroke-width="1.5" stroke-dasharray="320 1700" class="sweep" style="animation-delay:0.25s"/>
+    <rect x="420.5" y="80.5" width="359" height="329" rx="18" fill="none" stroke="url(#edge)" stroke-opacity=".45" stroke-width="1.2"/>
       <rect x="440" y="102" width="106" height="24" rx="12" fill="#FBBF24" fill-opacity=".16" stroke="#FBBF24" stroke-opacity=".75"/>
       <text x="453" y="118.5" font-size="10.5" font-weight="800" letter-spacing="1.4" fill="#FBBF24">LÉGENDAIRE</text><text x="756" y="120" text-anchor="end" font-size="13" fill="#FBBF24">★</text><text x="741" y="120" text-anchor="end" font-size="13" fill="#FBBF24">★</text><text x="726" y="120" text-anchor="end" font-size="13" fill="#FBBF24">★</text><text x="711" y="120" text-anchor="end" font-size="13" fill="#FBBF24">★</text><text x="696" y="120" text-anchor="end" font-size="13" fill="#FBBF24">★</text>
       <circle cx="600.0" cy="185" r="40" fill="#FBBF24" opacity=".22" filter="url(#glow)"/>
@@ -62,7 +62,7 @@
     <rect x="810" y="80" width="360" height="330" rx="18" fill="#11143a"/>
     <rect x="810" y="80" width="360" height="330" rx="18" fill="url(#sheen)"/>
     <rect x="810.5" y="80.5" width="359" height="329" rx="18" fill="none" stroke="#fff" stroke-opacity=".08"/>
-    <rect x="810.5" y="80.5" width="359" height="329" rx="18" fill="none" stroke="url(#edge)" stroke-width="1.5" stroke-dasharray="320 1700" class="sweep" style="animation-delay:0.5s"/>
+    <rect x="810.5" y="80.5" width="359" height="329" rx="18" fill="none" stroke="url(#edge)" stroke-opacity=".45" stroke-width="1.2"/>
       <rect x="830" y="102" width="74" height="24" rx="12" fill="#8B5CF6" fill-opacity=".16" stroke="#8B5CF6" stroke-opacity=".75"/>
       <text x="843" y="118.5" font-size="10.5" font-weight="800" letter-spacing="1.4" fill="#8B5CF6">ÉPIQUE</text><text x="1146" y="120" text-anchor="end" font-size="13" fill="#8B5CF6">★</text><text x="1131" y="120" text-anchor="end" font-size="13" fill="#8B5CF6">★</text><text x="1116" y="120" text-anchor="end" font-size="13" fill="#8B5CF6">★</text><text x="1101" y="120" text-anchor="end" font-size="13" fill="#8B5CF6">★</text>
       <circle cx="990.0" cy="185" r="40" fill="#8B5CF6" opacity=".22" filter="url(#glow)"/>
@@ -76,7 +76,7 @@
     <rect x="30" y="460" width="360" height="330" rx="18" fill="#11143a"/>
     <rect x="30" y="460" width="360" height="330" rx="18" fill="url(#sheen)"/>
     <rect x="30.5" y="460.5" width="359" height="329" rx="18" fill="none" stroke="#fff" stroke-opacity=".08"/>
-    <rect x="30.5" y="460.5" width="359" height="329" rx="18" fill="none" stroke="url(#edge)" stroke-width="1.5" stroke-dasharray="320 1700" class="sweep" style="animation-delay:0.75s"/>
+    <rect x="30.5" y="460.5" width="359" height="329" rx="18" fill="none" stroke="url(#edge)" stroke-opacity=".45" stroke-width="1.2"/>
       <rect x="50" y="482" width="74" height="24" rx="12" fill="#8B5CF6" fill-opacity=".16" stroke="#8B5CF6" stroke-opacity=".75"/>
       <text x="63" y="498.5" font-size="10.5" font-weight="800" letter-spacing="1.4" fill="#8B5CF6">ÉPIQUE</text><text x="366" y="500" text-anchor="end" font-size="13" fill="#8B5CF6">★</text><text x="351" y="500" text-anchor="end" font-size="13" fill="#8B5CF6">★</text><text x="336" y="500" text-anchor="end" font-size="13" fill="#8B5CF6">★</text><text x="321" y="500" text-anchor="end" font-size="13" fill="#8B5CF6">★</text>
       <circle cx="210.0" cy="565" r="40" fill="#8B5CF6" opacity=".22" filter="url(#glow)"/>
@@ -90,7 +90,7 @@
     <rect x="420" y="460" width="360" height="330" rx="18" fill="#11143a"/>
     <rect x="420" y="460" width="360" height="330" rx="18" fill="url(#sheen)"/>
     <rect x="420.5" y="460.5" width="359" height="329" rx="18" fill="none" stroke="#fff" stroke-opacity=".08"/>
-    <rect x="420.5" y="460.5" width="359" height="329" rx="18" fill="none" stroke="url(#edge)" stroke-width="1.5" stroke-dasharray="320 1700" class="sweep" style="animation-delay:1.0s"/>
+    <rect x="420.5" y="460.5" width="359" height="329" rx="18" fill="none" stroke="url(#edge)" stroke-opacity=".45" stroke-width="1.2"/>
       <rect x="440" y="482" width="58" height="24" rx="12" fill="#22D3EE" fill-opacity=".16" stroke="#22D3EE" stroke-opacity=".75"/>
       <text x="453" y="498.5" font-size="10.5" font-weight="800" letter-spacing="1.4" fill="#22D3EE">RARE</text><text x="756" y="500" text-anchor="end" font-size="13" fill="#22D3EE">★</text><text x="741" y="500" text-anchor="end" font-size="13" fill="#22D3EE">★</text><text x="726" y="500" text-anchor="end" font-size="13" fill="#22D3EE">★</text>
       <circle cx="600.0" cy="565" r="40" fill="#22D3EE" opacity=".22" filter="url(#glow)"/>
@@ -104,7 +104,7 @@
     <rect x="810" y="460" width="360" height="330" rx="18" fill="#11143a"/>
     <rect x="810" y="460" width="360" height="330" rx="18" fill="url(#sheen)"/>
     <rect x="810.5" y="460.5" width="359" height="329" rx="18" fill="none" stroke="#fff" stroke-opacity=".08"/>
-    <rect x="810.5" y="460.5" width="359" height="329" rx="18" fill="none" stroke="url(#edge)" stroke-width="1.5" stroke-dasharray="320 1700" class="sweep" style="animation-delay:1.25s"/>
+    <rect x="810.5" y="460.5" width="359" height="329" rx="18" fill="none" stroke="url(#edge)" stroke-opacity=".45" stroke-width="1.2"/>
       <rect x="830" y="482" width="58" height="24" rx="12" fill="#22D3EE" fill-opacity=".16" stroke="#22D3EE" stroke-opacity=".75"/>
       <text x="843" y="498.5" font-size="10.5" font-weight="800" letter-spacing="1.4" fill="#22D3EE">RARE</text><text x="1146" y="500" text-anchor="end" font-size="13" fill="#22D3EE">★</text><text x="1131" y="500" text-anchor="end" font-size="13" fill="#22D3EE">★</text><text x="1116" y="500" text-anchor="end" font-size="13" fill="#22D3EE">★</text>
       <circle cx="990.0" cy="565" r="40" fill="#22D3EE" opacity=".22" filter="url(#glow)"/>
