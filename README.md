@@ -29,7 +29,15 @@
 
 ## 💼 Expérience
 
-<details open>
+<div align="center">
+<img src="assets/experiences.svg" width="100%" alt="Journal de missions : Smartovate, RZ Prod, Speranza Pizza, Linedata" />
+</div>
+
+<details>
+<summary><b>📖 Voir le détail des missions</b></summary>
+<br/>
+
+<details>
 <summary><b>🤖 Smartovate</b> · Junior AI Engineer (freelance) · <i>depuis 09/2026 · Londres, à distance</i></summary>
 <br/>
 
@@ -42,7 +50,7 @@
 `Python` `Kafka` `Redpanda` `XGBoost` `Streaming ML` `PostgreSQL` `AWS`
 </details>
 
-<details open>
+<details>
 <summary><b>🥾 RZ Prod</b> · Développeuse full stack (freelance) · <i>05/2026 – 07/2026 · Tunisie</i></summary>
 <br/>
 
@@ -73,6 +81,8 @@
 - Architecture Message-Driven UI et intégration de fonctionnalités d'IA en C# / .NET.
 
 `C#` `.NET` `Blazor` `SignalR`
+</details>
+
 </details>
 
 ## 🚀 Projets phares
