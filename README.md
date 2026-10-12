@@ -11,30 +11,30 @@
 </div>
 
 
-## 🧠 Spécialisation IA
+## Spécialisation IA
 
 <div align="center">
 <img src="assets/ia.svg" width="100%" alt="Spécialisation IA : compétence prioritaire" />
 </div>
 
-## 👩‍💻 À propos
+## À propos
 
 <div align="center">
 <img src="assets/apropos.svg" width="100%" alt="Fiche personnage : Maram Rzeigui" />
 </div>
 
-## 💼 Expérience
+## Expérience
 
 <div align="center">
 <img src="assets/experiences.svg" width="100%" alt="Journal de missions : Smartovate, RZ Prod, Speranza Pizza, Linedata" />
 </div>
 
 <details>
-<summary><b>📖 Voir le détail des missions</b></summary>
+<summary><b>Voir le détail des missions</b></summary>
 <br/>
 
 <details>
-<summary><b>🤖 Smartovate</b> · Junior AI Engineer (freelance) · <i>depuis 09/2026 · Londres, à distance</i></summary>
+<summary><b>Smartovate</b> · Junior AI Engineer (freelance) · <i>depuis 09/2026 · Londres, à distance</i></summary>
 <br/>
 
 **Pipeline temps réel de détection de fraude bancaire**
@@ -47,7 +47,7 @@
 </details>
 
 <details>
-<summary><b>🥾 RZ Prod</b> · Développeuse full stack (freelance) · <i>05/2026 – 07/2026 · Tunisie</i></summary>
+<summary><b>RZ Prod</b> · Développeuse full stack (freelance) · <i>05/2026 – 07/2026 · Tunisie</i></summary>
 <br/>
 
 **Plateforme de randonnée et d'écotourisme, en partenariat avec le PNUD, le GEF/SGP et la SMSA**
@@ -60,7 +60,7 @@
 </details>
 
 <details>
-<summary><b>🍕 Speranza Pizza</b> · Développeuse (freelance) · <i>09/2025 – 10/2025 · client en France, à distance</i></summary>
+<summary><b>Speranza Pizza</b> · Développeuse (freelance) · <i>09/2025 – 10/2025 · client en France, à distance</i></summary>
 <br/>
 
 - Site de commande en ligne mis en production (Firebase, Vercel, Hostinger, paiements **Stripe**), jusqu'à **20 commandes par jour**.
@@ -70,7 +70,7 @@
 </details>
 
 <details>
-<summary><b>💻 Linedata</b> · Stagiaire développeuse .NET / Blazor · <i>07/2025 – 08/2025 · Tunis</i></summary>
+<summary><b>Linedata</b> · Stagiaire développeuse .NET / Blazor · <i>07/2025 – 08/2025 · Tunis</i></summary>
 <br/>
 
 - Deux applications web **Blazor** synchronisées en temps réel via **SignalR**, sans rechargement.
@@ -81,7 +81,7 @@
 
 </details>
 
-## 🚀 Projets phares
+## Projets phares
 
 <div align="center">
 <img src="assets/projets.svg" width="100%" alt="Collection de projets" />
@@ -91,7 +91,7 @@
 <a href="https://github.com/maramrzeigui/volteo"><img src="https://img.shields.io/badge/Volteo-FBBF24?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/maramrzeigui/medaichain"><img src="https://img.shields.io/badge/MedAIChain-FBBF24?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/maramrzeigui/viaitalia"><img src="https://img.shields.io/badge/ViaItalia-22D3EE?style=flat-square&logo=github&logoColor=white"/></a>
 </div>
 
-## 📂 Mes dépôts
+## Mes dépôts
 
 <div align="center">
 <img src="assets/depots.svg" width="100%" alt="Inventaire des dépôts" />
@@ -101,7 +101,7 @@
 <a href="https://github.com/maramrzeigui/volteo"><img src="https://img.shields.io/badge/volteo-8B5CF6?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/maramrzeigui/medaichain"><img src="https://img.shields.io/badge/medaichain-8B5CF6?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/maramrzeigui/viaitalia"><img src="https://img.shields.io/badge/viaitalia-8B5CF6?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/maramrzeigui/student-management-devops"><img src="https://img.shields.io/badge/student--management--devops-8B5CF6?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/maramrzeigui/site-web-gesto"><img src="https://img.shields.io/badge/site--web--gesto-8B5CF6?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/maramrzeigui/site-web-ecoguide"><img src="https://img.shields.io/badge/site--web--ecoguide-8B5CF6?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/maramrzeigui/site-RZ"><img src="https://img.shields.io/badge/site--RZ-8B5CF6?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/maramrzeigui/portfolio"><img src="https://img.shields.io/badge/portfolio-8B5CF6?style=flat-square&logo=github&logoColor=white"/></a>
 </div>
 
-## 🤝 Projets en équipe
+## Projets en équipe
 
 <div align="center">
 <img src="assets/equipe.svg" width="100%" alt="Mode coopération" />
@@ -112,7 +112,7 @@
 </div>
 
 <details>
-<summary><b>🔒 Contributions à des dépôts privés</b> (clients et projets d'école)</summary>
+<summary><b>Contributions à des dépôts privés</b> (clients et projets d'école)</summary>
 <br/>
 
 | Dépôt | Projet | Technologies |
@@ -126,19 +126,19 @@
 
 </details>
 
-## 🛠️ Technologies
+## Technologies
 
 <div align="center">
 <img src="assets/technologies.svg" width="100%" alt="Arbre de compétences" />
 </div>
 
-## 🎓 Formation, langues et certifications
+## Formation, langues et certifications
 
 <div align="center">
 <img src="assets/formation.svg" width="100%" alt="Formation et langues" />
 </div>
 
-## 📊 Activité
+## Activité
 
 <div align="center">
 <img width="100%" src="profile-3d-contrib/profile-night-rainbow.svg" alt="Contributions en 3D" />
