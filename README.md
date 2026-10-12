@@ -7,6 +7,8 @@
 <a href="https://portfolio-nine-lime-qt6zbk7swp.vercel.app"><img src="https://img.shields.io/badge/Portfolio-en%20ligne-121215?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Tunis-Tunisie-2b2f37?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3200&pause=900&color=E5545F&center=true&vCenter=true&width=620&lines=Applications+mobiles+React+Native+%26+Flutter;Plateformes+full+stack+Laravel+%C2%B7+NestJS+%C2%B7+Spring;IA+locale+%3A+LLM%2C+OCR%2C+vision+par+ordinateur;En+recherche+d%27un+PFE+%C2%B7+f%C3%A9vrier+2027" alt="Typing" />
+
 </div>
 
 ## 👩‍💻 À propos
@@ -85,6 +87,27 @@ Site vitrine d'une solution qui digitalise les cafés et restaurants : menu QR, 
 </tr>
 </table>
 
+## 📂 Tous mes dépôts
+
+<div align="center">
+
+<a href="https://github.com/maramrzeigui/volteo"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=maramrzeigui&repo=volteo&theme=transparent&hide_border=true&title_color=E5545F&icon_color=E5545F&text_color=8b8b95&bg_color=00000000&description_lines_count=2" alt="volteo"/></a><a href="https://github.com/maramrzeigui/medaichain"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=maramrzeigui&repo=medaichain&theme=transparent&hide_border=true&title_color=E5545F&icon_color=E5545F&text_color=8b8b95&bg_color=00000000&description_lines_count=2" alt="medaichain"/></a>
+<a href="https://github.com/maramrzeigui/viaitalia"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=maramrzeigui&repo=viaitalia&theme=transparent&hide_border=true&title_color=E5545F&icon_color=E5545F&text_color=8b8b95&bg_color=00000000&description_lines_count=2" alt="viaitalia"/></a><a href="https://github.com/maramrzeigui/student-management-devops"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=maramrzeigui&repo=student-management-devops&theme=transparent&hide_border=true&title_color=E5545F&icon_color=E5545F&text_color=8b8b95&bg_color=00000000&description_lines_count=2" alt="student-management-devops"/></a>
+<a href="https://github.com/maramrzeigui/site-web-gesto"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=maramrzeigui&repo=site-web-gesto&theme=transparent&hide_border=true&title_color=E5545F&icon_color=E5545F&text_color=8b8b95&bg_color=00000000&description_lines_count=2" alt="site-web-gesto"/></a><a href="https://github.com/maramrzeigui/site-web-ecoguide"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=maramrzeigui&repo=site-web-ecoguide&theme=transparent&hide_border=true&title_color=E5545F&icon_color=E5545F&text_color=8b8b95&bg_color=00000000&description_lines_count=2" alt="site-web-ecoguide"/></a>
+<a href="https://github.com/maramrzeigui/site-RZ"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=maramrzeigui&repo=site-RZ&theme=transparent&hide_border=true&title_color=E5545F&icon_color=E5545F&text_color=8b8b95&bg_color=00000000&description_lines_count=2" alt="site-RZ"/></a><a href="https://github.com/maramrzeigui/portfolio"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=maramrzeigui&repo=portfolio&theme=transparent&hide_border=true&title_color=E5545F&icon_color=E5545F&text_color=8b8b95&bg_color=00000000&description_lines_count=2" alt="portfolio"/></a>
+
+</div>
+
+## 🧩 Autres réalisations
+
+| Projet | Description | Technologies |
+|---|---|---|
+| 🎵 Studio de musique | Deux applications natives Android et iOS avec fonctionnalités d'IA | Kotlin · Swift · NestJS · MongoDB Atlas |
+| 🍕 Speranza Pizza (freelance) | Site de commande en ligne avec paiement Stripe et application mobile d'administration | Firebase · Stripe · Vercel |
+| 🥾 Maison d'hôtes & randonnée (freelance) | Application mobile hors ligne : parcours de randonnée et bouton SOS | Flutter · Géolocalisation |
+| 💻 Applications Blazor temps réel (stage Linedata) | Deux applications web communiquant en temps réel, avec fonctionnalités d'IA | C# · .NET · Blazor · SignalR |
+| 🖥️ PIDEV | Application Java Desktop et Web connectées à une base commune | JavaFX · Symfony · MySQL |
+
 ## 🛠️ Technologies
 
 **Mobile**<br/>
@@ -110,11 +133,15 @@ Site vitrine d'une solution qui digitalise les cafés et restaurants : menu QR, 
 - **Cycle d'ingénieur en informatique**, ESPRIT, spécialité Systèmes d'Information Mobile (2022 – aujourd'hui)
 - **Computer Vision** : module de 5e année et certification NVIDIA (en cours)
 
-## 📊 Statistiques
+## 📊 Activité
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=maramrzeigui&show_icons=true&hide_border=true&bg_color=121215&title_color=E5545F&icon_color=E5545F&text_color=d0d0d6&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maramrzeigui&layout=compact&hide_border=true&bg_color=121215&title_color=E5545F&text_color=d0d0d6&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=maramrzeigui&show_icons=true&hide_border=true&bg_color=121215&title_color=E5545F&icon_color=E5545F&text_color=d0d0d6&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maramrzeigui&layout=compact&hide_border=true&bg_color=121215&title_color=E5545F&text_color=d0d0d6&langs_count=8" />
+<br/>
+<img width="85%" src="https://streak-stats.demolab.com?user=maramrzeigui&hide_border=true&background=121215&ring=E5545F&fire=E5545F&currStreakLabel=E5545F&sideLabels=d0d0d6&currStreakNum=ffffff&sideNums=ffffff&dates=8b8b95&locale=fr" />
+<br/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=maramrzeigui&bg_color=121215&color=d0d0d6&line=E5545F&point=ffffff&area=true&area_color=B83A46&hide_border=true&custom_title=Contributions%20sur%2030%20jours" />
 </div>
 
 <div align="center">
