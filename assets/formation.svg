@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-label="SUCCÈS · FORMATION ET LANGUES">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#060918"/><stop offset=".6" stop-color="#0c0f2e"/><stop offset="1" stop-color="#170c34"/></linearGradient>
+    <radialGradient id="a1" cx=".12" cy=".1" r=".55"><stop offset="0" stop-color="#22D3EE" stop-opacity=".15"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+    <radialGradient id="a2" cx=".92" cy=".95" r=".55"><stop offset="0" stop-color="#EC4899" stop-opacity=".15"/><stop offset="1" stop-color="#EC4899" stop-opacity="0"/></radialGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE"/><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22D3EE"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+    <linearGradient id="kpi" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#67E8F9"/><stop offset="1" stop-color="#C4B5FD"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FDE68A"/><stop offset="1" stop-color="#F59E0B"/></linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity=".07"/><stop offset=".45" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".16"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <filter id="glow" x="-1" y="-1" width="3" height="3"><feGaussianBlur stdDeviation="8"/></filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8B5CF6" stroke-opacity=".06"/></pattern>
+    <style>
+      text{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+      .in{opacity:0;animation:in .8s cubic-bezier(.2,.8,.2,1) forwards}
+      @keyframes in{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
+      .fl{animation:fl 5s ease-in-out infinite}@keyframes fl{50%{transform:translateY(-7px)}}
+      .sweep{animation:sw 5s linear infinite}@keyframes sw{from{stroke-dashoffset:0}to{stroke-dashoffset:-2000}}
+      .pulse{animation:pu 1.8s ease-in-out infinite}@keyframes pu{50%{opacity:.45}}
+      .shn{animation:sh 4.5s ease-in-out infinite}@keyframes sh{0%{transform:translateX(-600px)}60%,100%{transform:translateX(900px)}}
+      .tw{animation:tw 3s ease-in-out infinite}@keyframes tw{50%{opacity:.15}}
+    </style>
+    <clipPath id="clip"><rect width="1200" height="400" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+  <rect width="1200" height="400" fill="url(#bg)"/><rect width="1200" height="400" fill="url(#grid)"/>
+  <rect width="1200" height="400" fill="url(#a1)"/><rect width="1200" height="400" fill="url(#a2)"/><circle cx="197" cy="83" r="1.4" fill="#fff" class="tw" style="animation-delay:-1s" opacity=".7"/><circle cx="394" cy="166" r="1.8" fill="#fff" class="tw" style="animation-delay:-2s" opacity=".7"/><circle cx="591" cy="249" r="1.0" fill="#fff" class="tw" style="animation-delay:-0s" opacity=".7"/><circle cx="788" cy="332" r="1.4" fill="#fff" class="tw" style="animation-delay:-1s" opacity=".7"/><circle cx="985" cy="15" r="1.8" fill="#fff" class="tw" style="animation-delay:-2s" opacity=".7"/><circle cx="1182" cy="98" r="1.0" fill="#fff" class="tw" style="animation-delay:-0s" opacity=".7"/><circle cx="179" cy="181" r="1.4" fill="#fff" class="tw" style="animation-delay:-1s" opacity=".7"/><circle cx="376" cy="264" r="1.8" fill="#fff" class="tw" style="animation-delay:-2s" opacity=".7"/><circle cx="573" cy="347" r="1.0" fill="#fff" class="tw" style="animation-delay:-0s" opacity=".7"/><circle cx="770" cy="30" r="1.4" fill="#fff" class="tw" style="animation-delay:-1s" opacity=".7"/><circle cx="967" cy="113" r="1.8" fill="#fff" class="tw" style="animation-delay:-2s" opacity=".7"/><circle cx="1164" cy="196" r="1.0" fill="#fff" class="tw" style="animation-delay:-0s" opacity=".7"/><circle cx="161" cy="279" r="1.4" fill="#fff" class="tw" style="animation-delay:-1s" opacity=".7"/>
+  <text x="26" y="46" font-size="13" font-weight="800" letter-spacing="3" fill="url(#brand)">SUCCÈS · FORMATION ET LANGUES</text>
+  <text x="1174" y="46" text-anchor="end" font-size="13" fill="#9a9dc4">Échelle européenne A1 → C2</text>
+  <g class="in" style="animation-delay:0.0s">
+    <path d="M560 94 l10 10 v112 l-10 -10 Z" fill="#22D3EE" fill-opacity=".35"/>
+    <path d="M54 206 l10 10 h506 l-10 -10 Z" fill="#22D3EE" fill-opacity=".22"/>
+    <rect x="40" y="80" width="520" height="126" rx="18" fill="#11143a"/>
+    <rect x="40" y="80" width="520" height="126" rx="18" fill="url(#sheen)"/>
+    <rect x="40.5" y="80.5" width="519" height="125" rx="18" fill="none" stroke="#fff" stroke-opacity=".08"/>
+    <rect x="40.5" y="80.5" width="519" height="125" rx="18" fill="none" stroke="url(#edge)" stroke-width="1.5" stroke-dasharray="320 1700" class="sweep" style="animation-delay:0.0s"/>
+      <g class="fl" style="animation-delay:-0s"><g class=""><path d="M78 134 L112 151.0 L112 177.0 L78 160 Z" fill="#2b2470"/><path d="M146 134 L112 151.0 L112 177.0 L146 160 Z" fill="#1c1752"/><path d="M112 117.0 L146 134 L112 151.0 L78 134 Z" fill="url(#edge)"/><path d="M112 117.0 L146 134 L112 151.0 L78 134 Z" fill="none" stroke="#fff" stroke-opacity=".35"/></g>
+      <text x="112" y="139" text-anchor="middle" font-size="12" font-weight="800" fill="#0b0d26">ESPRIT</text></g>
+      <text x="172" y="128" font-size="17" font-weight="800" fill="#fff">Diplôme d’ingénieur en informatique</text>
+      <text x="172" y="150" font-size="12.5" fill="#a5a8c9">Systèmes d’Information Mobile · 2022 – 2027</text>
+      <rect x="172" y="164" width="86" height="22" rx="11" fill="#22D3EE" fill-opacity=".14" stroke="#22D3EE" stroke-opacity=".7"/>
+      <text x="215" y="179" text-anchor="middle" font-size="10" font-weight="800" letter-spacing="1.2" fill="#22D3EE" class="pulse">EN COURS</text></g><g class="in" style="animation-delay:0.2s">
+    <path d="M560 244 l10 10 v112 l-10 -10 Z" fill="#FBBF24" fill-opacity=".35"/>
+    <path d="M54 356 l10 10 h506 l-10 -10 Z" fill="#FBBF24" fill-opacity=".22"/>
+    <rect x="40" y="230" width="520" height="126" rx="18" fill="#11143a"/>
+    <rect x="40" y="230" width="520" height="126" rx="18" fill="url(#sheen)"/>
+    <rect x="40.5" y="230.5" width="519" height="125" rx="18" fill="none" stroke="#fff" stroke-opacity=".08"/>
+    <rect x="40.5" y="230.5" width="519" height="125" rx="18" fill="none" stroke="url(#edge)" stroke-width="1.5" stroke-dasharray="320 1700" class="sweep" style="animation-delay:0.6s"/>
+      <g class="fl" style="animation-delay:-1s"><g class=""><path d="M78 284 L112 301.0 L112 327.0 L78 310 Z" fill="#7c5a12"/><path d="M146 284 L112 301.0 L112 327.0 L146 310 Z" fill="#5a3f0a"/><path d="M112 267.0 L146 284 L112 301.0 L78 284 Z" fill="url(#gold)"/><path d="M112 267.0 L146 284 L112 301.0 L78 284 Z" fill="none" stroke="#fff" stroke-opacity=".35"/></g>
+      <text x="112" y="289" text-anchor="middle" font-size="12" font-weight="800" fill="#0b0d26">NVIDIA</text></g>
+      <text x="172" y="278" font-size="17" font-weight="800" fill="#fff">Computer Vision (OpenCV)</text>
+      <text x="172" y="300" font-size="12.5" fill="#a5a8c9">Module de 5e année + certification</text>
+      <rect x="172" y="314" width="86" height="22" rx="11" fill="#22D3EE" fill-opacity=".14" stroke="#22D3EE" stroke-opacity=".7"/>
+      <text x="215" y="329" text-anchor="middle" font-size="10" font-weight="800" letter-spacing="1.2" fill="#22D3EE" class="pulse">EN COURS</text></g><g class="in" style="animation-delay:0.3s">
+      <circle cx="690" cy="155" r="46" fill="none" stroke="#fff" stroke-opacity=".08" stroke-width="9"/>
+      <circle cx="690" cy="155" r="46" fill="none" stroke="#22D3EE" stroke-width="9" stroke-linecap="round" stroke-dasharray="0 289.0" transform="rotate(-90 690 155)">
+        <animate attributeName="stroke-dasharray" values="0 289.0;289.0 289.0;289.0 289.0" keyTimes="0;.3;1" dur="6s" repeatCount="indefinite"/></circle>
+      <circle cx="690" cy="155" r="30" fill="#22D3EE" opacity=".15" filter="url(#glow)"/>
+      <text x="690" y="161" text-anchor="middle" font-size="17" font-weight="800" fill="#fff">Natif</text>
+      <text x="756" y="151" font-size="16" font-weight="800" fill="#fff">Arabe</text>
+      <text x="756" y="171" font-size="12" fill="#a5a8c9">Natif</text></g><g class="in" style="animation-delay:0.44999999999999996s">
+      <circle cx="940" cy="155" r="46" fill="none" stroke="#fff" stroke-opacity=".08" stroke-width="9"/>
+      <circle cx="940" cy="155" r="46" fill="none" stroke="#8B5CF6" stroke-width="9" stroke-linecap="round" stroke-dasharray="0 289.0" transform="rotate(-90 940 155)">
+        <animate attributeName="stroke-dasharray" values="0 289.0;192.7 289.0;192.7 289.0" keyTimes="0;.3;1" dur="6s" repeatCount="indefinite"/></circle>
+      <circle cx="940" cy="155" r="30" fill="#8B5CF6" opacity=".15" filter="url(#glow)"/>
+      <text x="940" y="161" text-anchor="middle" font-size="17" font-weight="800" fill="#fff">B2</text>
+      <text x="1006" y="151" font-size="16" font-weight="800" fill="#fff">Français</text>
+      <text x="1006" y="171" font-size="12" fill="#a5a8c9">B2</text></g><g class="in" style="animation-delay:0.6s">
+      <circle cx="690" cy="305" r="46" fill="none" stroke="#fff" stroke-opacity=".08" stroke-width="9"/>
+      <circle cx="690" cy="305" r="46" fill="none" stroke="#EC4899" stroke-width="9" stroke-linecap="round" stroke-dasharray="0 289.0" transform="rotate(-90 690 305)">
+        <animate attributeName="stroke-dasharray" values="0 289.0;192.7 289.0;192.7 289.0" keyTimes="0;.3;1" dur="6s" repeatCount="indefinite"/></circle>
+      <circle cx="690" cy="305" r="30" fill="#EC4899" opacity=".15" filter="url(#glow)"/>
+      <text x="690" y="311" text-anchor="middle" font-size="17" font-weight="800" fill="#fff">B2</text>
+      <text x="756" y="301" font-size="16" font-weight="800" fill="#fff">Anglais</text>
+      <text x="756" y="321" font-size="12" fill="#a5a8c9">B2 · EF SET</text></g><g class="in" style="animation-delay:0.75s">
+      <circle cx="940" cy="305" r="46" fill="none" stroke="#fff" stroke-opacity=".08" stroke-width="9"/>
+      <circle cx="940" cy="305" r="46" fill="none" stroke="#FBBF24" stroke-width="9" stroke-linecap="round" stroke-dasharray="0 289.0" transform="rotate(-90 940 305)">
+        <animate attributeName="stroke-dasharray" values="0 289.0;96.3 289.0;96.3 289.0" keyTimes="0;.3;1" dur="6s" repeatCount="indefinite"/></circle>
+      <circle cx="940" cy="305" r="30" fill="#FBBF24" opacity=".15" filter="url(#glow)"/>
+      <text x="940" y="311" text-anchor="middle" font-size="17" font-weight="800" fill="#fff">A2</text>
+      <text x="1006" y="301" font-size="16" font-weight="800" fill="#fff">Allemand</text>
+      <text x="1006" y="321" font-size="12" fill="#a5a8c9">A2</text></g>
+  </g>
+</svg>

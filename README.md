@@ -10,22 +10,12 @@
 
 </div>
 
-<br/>
-
-<table align="center">
-<tr>
-<td align="center" width="25%"><h2>93,5 %</h2><sub>de précision en prédiction<br/>de pathologie (MedAIChain)</sub></td>
-<td align="center" width="25%"><h2>100 %</h2><sub>hors ligne : application de<br/>randonnée en zone sans réseau</sub></td>
-<td align="center" width="25%"><h2>20 / jour</h2><sub>commandes en ligne générées<br/>pour un restaurant client</sub></td>
-<td align="center" width="25%"><h2>OCPP 1.6J</h2><sub>bornes de recharge réelles<br/>pilotées par Volteo</sub></td>
-</tr>
-</table>
 
 ## 👩‍💻 À propos
 
-Élève ingénieure en informatique à **ESPRIT** (2022 – 2027), spécialité **Systèmes d'Information Mobile**. Je livre des produits complets en autonomie, **du cahier des charges au déploiement en production** : applications mobiles offline-first, pipelines de données temps réel, intégrations d'IA et de blockchain.
-
-> 🎯 **Disponible pour un PFE de 6 mois à partir de février 2027.**
+<div align="center">
+<img src="assets/apropos.svg" width="100%" alt="Fiche personnage : Maram Rzeigui" />
+</div>
 
 ## 💼 Expérience
 
@@ -87,82 +77,32 @@
 
 ## 🚀 Projets phares
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
+<img src="assets/projets.svg" width="100%" alt="Collection de projets" />
+</div>
 
-### ⚡ [Volteo](https://github.com/maramrzeigui/volteo)
-<a href="https://github.com/maramrzeigui/volteo"><img src="https://raw.githubusercontent.com/maramrzeigui/volteo/main/docs/screens/couverture.png" width="100%" /></a>
-
-Plateforme SaaS de **recharge de véhicules électriques** : application mobile, back-office, bornes réelles en **OCPP 1.6J**, wallet Flouci / e-DINAR au solde exact, assistant IA local et guidage de trajet avec alertes vocales.
-
-`React Native` `Laravel` `React` `Node.js` `OCPP` `Ollama`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 [MedAIChain](https://github.com/maramrzeigui/medaichain)
-*Équipe de 5 · 01/2026 – 05/2026*
-
-- Pipeline IA : **OCR → 20 biomarqueurs → LLM Llama 3.2 3B fine-tuné (LoRA / QLoRA)**, diagnostic structuré et niveau d'urgence, **100 % en local**.
-- 6 modèles ML : **93,4 %** en triage d'urgence, **93,5 %** en prédiction de pathologie.
-- Ordonnances en **NFT ERC-721** sur Polygon, wallets chiffrés AES-256-GCM.
-
-`Flutter` `NestJS` `PostgreSQL` `Python` `LLM` `Blockchain`
-
-### 🎓 MentoraBall
-*Plateforme éducative gamifiée · 01/2025 – 05/2025*
-
-- **Google Gemini** intégré aux cours : résumer, traduire, approfondir en un clic.
-- Navigation **par commandes vocales**, bascule vers l'**authentification faciale** après 3 échecs, OAuth2, reCAPTCHA, JWT.
-
-`Symfony` `JavaFX` `MySQL` `Gemini`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎵 Studio de musique
-*Applications natives · 11/2025*
-
-Deux applications **Android (Kotlin)** et **iOS (Swift)** avec 7 instruments virtuels jouables en temps réel, un chatbot musical et une **IA générative** de composition à partir d'un texte (ElevenLabs).
-
-`Kotlin` `Swift` `NestJS` `MongoDB Atlas` `IA générative`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌿 EcoGuide & EcoTracer
-*RZ Prod · 2026*
-
-Randonnée au Parc National de Jebel Chitana – Cap Negro : cartes hors ligne, SOS géolocalisé, enregistrement GPS des sentiers et chatbot EcoBot.
-
-`Flutter` `NestJS` `PostGIS` `Offline-first`
-
-</td>
-</tr>
-</table>
+<div align="center">
+<a href="https://github.com/maramrzeigui/volteo"><img src="https://img.shields.io/badge/Volteo-FBBF24?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/maramrzeigui/medaichain"><img src="https://img.shields.io/badge/MedAIChain-FBBF24?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/maramrzeigui/viaitalia"><img src="https://img.shields.io/badge/ViaItalia-22D3EE?style=flat-square&logo=github&logoColor=white"/></a>
+</div>
 
 ## 📂 Mes dépôts
 
 <div align="center">
+<img src="assets/depots.svg" width="100%" alt="Inventaire des dépôts" />
+</div>
 
-<a href="https://github.com/maramrzeigui/volteo"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=maramrzeigui&repo=volteo&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=22D3EE&text_color=8b8b95&bg_color=00000000&description_lines_count=2" /></a><a href="https://github.com/maramrzeigui/medaichain"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=maramrzeigui&repo=medaichain&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=22D3EE&text_color=8b8b95&bg_color=00000000&description_lines_count=2" /></a>
-<a href="https://github.com/maramrzeigui/viaitalia"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=maramrzeigui&repo=viaitalia&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=22D3EE&text_color=8b8b95&bg_color=00000000&description_lines_count=2" /></a><a href="https://github.com/maramrzeigui/student-management-devops"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=maramrzeigui&repo=student-management-devops&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=22D3EE&text_color=8b8b95&bg_color=00000000&description_lines_count=2" /></a>
-<a href="https://github.com/maramrzeigui/site-web-gesto"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=maramrzeigui&repo=site-web-gesto&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=22D3EE&text_color=8b8b95&bg_color=00000000&description_lines_count=2" /></a><a href="https://github.com/maramrzeigui/site-web-ecoguide"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=maramrzeigui&repo=site-web-ecoguide&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=22D3EE&text_color=8b8b95&bg_color=00000000&description_lines_count=2" /></a>
-<a href="https://github.com/maramrzeigui/site-RZ"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=maramrzeigui&repo=site-RZ&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=22D3EE&text_color=8b8b95&bg_color=00000000&description_lines_count=2" /></a><a href="https://github.com/maramrzeigui/portfolio"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=maramrzeigui&repo=portfolio&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=22D3EE&text_color=8b8b95&bg_color=00000000&description_lines_count=2" /></a>
-
+<div align="center">
+<a href="https://github.com/maramrzeigui/volteo"><img src="https://img.shields.io/badge/volteo-8B5CF6?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/maramrzeigui/medaichain"><img src="https://img.shields.io/badge/medaichain-8B5CF6?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/maramrzeigui/viaitalia"><img src="https://img.shields.io/badge/viaitalia-8B5CF6?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/maramrzeigui/student-management-devops"><img src="https://img.shields.io/badge/student--management--devops-8B5CF6?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/maramrzeigui/site-web-gesto"><img src="https://img.shields.io/badge/site--web--gesto-8B5CF6?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/maramrzeigui/site-web-ecoguide"><img src="https://img.shields.io/badge/site--web--ecoguide-8B5CF6?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/maramrzeigui/site-RZ"><img src="https://img.shields.io/badge/site--RZ-8B5CF6?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/maramrzeigui/portfolio"><img src="https://img.shields.io/badge/portfolio-8B5CF6?style=flat-square&logo=github&logoColor=white"/></a>
 </div>
 
 ## 🤝 Projets en équipe
 
 <div align="center">
+<img src="assets/equipe.svg" width="100%" alt="Mode coopération" />
+</div>
 
-<a href="https://github.com/Yassminette5/medaichain-mobile"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yassminette5&repo=medaichain-mobile&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=22D3EE&text_color=8b8b95&bg_color=00000000&show_owner=true" /></a><a href="https://github.com/Yassminette5/medaichain-backend"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yassminette5&repo=medaichain-backend&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=22D3EE&text_color=8b8b95&bg_color=00000000&show_owner=true" /></a>
-<a href="https://github.com/rzprodcommunity-hue/Eco-Guide"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rzprodcommunity-hue&repo=Eco-Guide&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=22D3EE&text_color=8b8b95&bg_color=00000000&show_owner=true" /></a><a href="https://github.com/mouha-byte/app_ecotourisme"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mouha-byte&repo=app_ecotourisme&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=22D3EE&text_color=8b8b95&bg_color=00000000&show_owner=true" /></a>
-<a href="https://github.com/azizgargouri/springboot-repo-"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=azizgargouri&repo=springboot-repo-&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=22D3EE&text_color=8b8b95&bg_color=00000000&show_owner=true" /></a>
-
+<div align="center">
+<a href="https://github.com/Yassminette5/medaichain-mobile"><img src="https://img.shields.io/badge/medaichain--mobile-EC4899?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/Yassminette5/medaichain-backend"><img src="https://img.shields.io/badge/medaichain--backend-EC4899?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/rzprodcommunity-hue/Eco-Guide"><img src="https://img.shields.io/badge/Eco--Guide-EC4899?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/mouha-byte/app_ecotourisme"><img src="https://img.shields.io/badge/app_ecotourisme-EC4899?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/azizgargouri/springboot-repo-"><img src="https://img.shields.io/badge/springboot--repo---EC4899?style=flat-square&logo=github&logoColor=white"/></a>
 </div>
 
 <details>
@@ -183,31 +123,14 @@ Randonnée au Parc National de Jebel Chitana – Cap Negro : cartes hors ligne, 
 ## 🛠️ Technologies
 
 <div align="center">
-
-**Mobile**<br/>
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin,swift,androidstudio,xcode&perline=10" />
-
-**Back-end**<br/>
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,spring,java,dotnet,cs,laravel,php,symfony&perline=10" />
-
-**Front-end**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css,tailwind&perline=10" />
-
-**Données, IA & DevOps**<br/>
-<img src="https://skillicons.dev/icons?i=python,kafka,opencv,postgres,mysql,mongodb,firebase,supabase,aws,docker,jenkins,git&perline=12" />
-
+<img src="assets/technologies.svg" width="100%" alt="Arbre de compétences" />
 </div>
 
 ## 🎓 Formation, langues et certifications
 
-| | |
-|---|---|
-| 🎓 **ESPRIT** | Diplôme d'ingénieur en informatique, spécialité Systèmes d'Information Mobile (2022 – 2027) |
-| 👁️ **Computer Vision** | Module de 5e année (OpenCV) et certification NVIDIA (en cours) |
-| 🇬🇧 **Anglais** | B2, certifié EF SET |
-| 🇫🇷 **Français** | B2 |
-| 🇹🇳 **Arabe** | Langue maternelle |
-| 🇩🇪 **Allemand** | A2 |
+<div align="center">
+<img src="assets/formation.svg" width="100%" alt="Formation et langues" />
+</div>
 
 ## 📊 Activité
 
